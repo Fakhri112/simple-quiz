@@ -30,13 +30,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/simple-quiz-app.git
+   git clone https://github.com/username/simple-quiz.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd simple-quiz-app
+   cd simple-quiz
    ```
 
 3. Install the dependencies:
